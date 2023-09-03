@@ -1,25 +1,27 @@
-# Projeto-ICD-UFPB---2023.1
+# Projeto de Introdução a Ciência de Dados v1.0
+# UFPB - 2023.1
 
-Projeto de Introdução a Ciência de Dados v1.0; 
-Grupo de alunos: Gabriel Silva, Gabriel Fonseca, Wilson Fillipe. 
+## Integrantes:
 
+- Gabriel Silva
+- Gabriel Fonseca
+- Wilson Fillipe   
+
+## Objetivo:
 
 O objetivo principal da pesquisa é fazer uma análise exploratória de dados e exposição dos mesmos com a finalidade de responder as questões listadas abaixo. O assunto principal do trabalho são os dados relacionados ao mercado de trabalho na área de Ciência de Dados no Brasil. Algumas manipulações de dados foram feitas a partir da biblioteca Pandas e Matplotlib. 
 
 
-As principais questões abordadas nesta pesquisa são: 
+## As principais questões abordadas nesta pesquisa são: 
 
-1- Quais as ferramentas mais usadas na área? Qual a relação entre as ferramentas mais usadas e os salários mais altos? 
-
-
-2- Qual a relação entre o nível/área de formação acadêmica e os salários na área? Qual o impacto direta da experiência na função e o valor do salário?
-
-
-3- 
+- Quais as ferramentas mais usadas na área? Qual a relação entre as ferramentas mais usadas e os salários mais altos?
+- Qual a relação entre as ferramentas mais usadas e os salários mais altos?
+- Qual a relação entre o nível/área de formação acadêmica e os salários na área? 
+- Qual o impacto direta da experiência na função e o valor do salário?
 
 
 
-Informações importantes e bancos de dados importados dos links a seguir: 
+## Informações importantes e bancos de dados importados dos links a seguir: 
 
 [Data Hackers Survey 2019](https://www.kaggle.com/datasets/datahackers/pesquisa-data-hackers-2019) | Kaggle (acessado em 03/09/2023) 
 
