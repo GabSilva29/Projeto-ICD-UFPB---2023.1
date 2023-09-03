@@ -12,7 +12,7 @@ As principais questões abordadas nesta pesquisa são:
 1- Quais as ferramentas mais usadas na área? Qual a relação entre as ferramentas mais usadas e os salários mais altos? 
 
 
-2- 
+2- Qual a relação entre o nível/área de formação acadêmica e os salários na área? Qual o impacto direta da experiência na função e o valor do salário?
 
 
 3- 
