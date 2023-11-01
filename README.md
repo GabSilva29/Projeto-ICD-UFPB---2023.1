@@ -9,24 +9,19 @@
 
 ## Objetivo:
 
-O objetivo principal da pesquisa é fazer uma análise exploratória de dados e exposição dos mesmos com a finalidade de responder as questões listadas abaixo. O assunto principal do trabalho são os dados relacionados ao mercado de trabalho na área de Ciência de Dados no Brasil. Algumas manipulações de dados foram feitas a partir da biblioteca Pandas e Matplotlib. 
+O trabalho a seguir foi feito a partir de um dataset disponibilizado no site kaggle, ele junta todos os dados da Fórmula 1 desde 1950 em 14 arquivos .csv, dos quais usamos apenas os necessários para exibir os dados essenciais para uma exposição.
+Nós fizemos os questionamentos visando um entendimento geral no assunto que é a F1, um esporte não tão fácil de entender para alguém que não acompanha, tentamos exibir os dados mais importantes de maneira compreensível até para quem não assiste o esporte.
 
 
 ## As principais questões abordadas nesta pesquisa são: 
 
-- Quais as ferramentas mais usadas na área?
-- Qual a relação entre as ferramentas mais usadas e os salários mais altos?
-- Qual a relação entre o nível/área de formação acadêmica e os salários na área? 
-- Qual o impacto direta da experiência na função e o valor do salário?
+-Introdução, Pilotos atuais e históricos, pistas, campeões e campeonatos.
+-Como a análise de dados mudou o esporte ao longo do tempo, coisas que impactaram o esporte de maneira geral.
+-E por último algumas demonstrações de análises de dados mais específicas.
 
 
 
-## Informações importantes e bancos de dados importados dos links a seguir: 
+## Informações importantes e bancos de dados importados do link a seguir: 
 
-[Data Hackers Survey 2019](https://www.kaggle.com/datasets/datahackers/pesquisa-data-hackers-2019) | Kaggle (acessado em 03/09/2023) 
-
-[Um caminho para os melhores salários-versão com ML](https://www.kaggle.com/code/luizweb/um-caminho-para-os-melhores-sal-rios-vers-o-com-ml) | Kaggle (acessado em 03/09/2023) 
-
-[Brazilian DS Market](https://www.kaggle.com/code/jsaguiar/brazilian-ds-market) | Kaggle (acessado em 03/09/2023) 
-
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data
 
