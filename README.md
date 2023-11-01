@@ -16,8 +16,11 @@ Nós fizemos os questionamentos visando um entendimento geral no assunto que é 
 ## As principais questões abordadas nesta pesquisa são: 
 
 -Introdução, Pilotos atuais e históricos, pistas, campeões e campeonatos.
+
 -Como a análise de dados mudou o esporte ao longo do tempo, coisas que impactaram o esporte de maneira geral.
+
 -E por último algumas demonstrações de análises de dados mais específicas.
+
 
 
 
